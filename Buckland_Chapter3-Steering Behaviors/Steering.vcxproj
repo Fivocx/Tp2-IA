@@ -48,7 +48,7 @@
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>E:\École\IA\Buckland_PGAIBE_Source_VC6-VS2010\VS2010\Common;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\Utilisateur\Documents\Tp2-IA\Common;E:\École\IA\Buckland_PGAIBE_Source_VC6-VS2010\VS2010\Common;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Midl>
